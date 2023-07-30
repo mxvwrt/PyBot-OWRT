@@ -1,32 +1,30 @@
 {
     "en": {
     "random_msg_01":  {
-        "msg": "TEST 1!",
-        "picture_url": "https://file-examples.com/wp-content/storage/2017/10/file_example_PNG_500kB.png"
+        "msg": "read this if you need help with openwrt!\n",
+        "picture_url": "https://github.com/mxvwrt/PyBotOWRT/blob/main/pesan/img/test1.png"
     },
     "random_msg_02":  {
-        "msg": "TEST 2!",
-        "picture_url": "https://file-examples.com/wp-content/storage/2017/10/file_example_JPG_100kB.jpg"
+        "msg": "Test For Incognito!\n",
+        "picture_url": "https://github.com/mxvwrt/PyBotOWRT/blob/main/pesan/img/test2.png"
+    },
+    "random_msg_03":  {
+        "msg": "For Stable VPN I Recommend! [VPN Neo](https://vpnneo.com/) \n",
+        "picture_url": "https://github.com/mxvwrt/PyBotOWRT/blob/main/pesan/img/test3.png"
     }
     },
     "id": {
     "random_msg_01":  {
-        "msg": "Selamat Tinggal!",
-        "picture_url": "https://example.com/images/pic.jpg"
+        "msg": "baca ini jika kamu perlu bantuan tentang openwrt\n",
+        "picture_url": "https://github.com/mxvwrt/PyBotOWRT/blob/main/pesan/img/test1.png"
     },
     "random_msg_02":  {
-        "msg": "Terimakasih!",
-        "picture_url": "https://example.com/images/thanks.jpg"
-    }
+        "msg": "Tes Untuk Penyamaran!\n",
+        "picture_url": "https://github.com/mxvwrt/PyBotOWRT/blob/main/pesan/img/test2.png"
     },
-    "fr": {
-    "random_msg_01":  {
-        "msg": "Au revoir!",
-        "picture_url": "https://example.com/images/pic.jpg"
-    },
-    "random_msg_02":  {
-        "msg": "Merci!",
-        "picture_url": "https://example.com/images/thanks.jpg"
+    "random_msg_03":  {
+        "msg": "VPN Stabil Yang Saya Rekomendasikan! [VPN Neo](https://vpnneo.com/) \n",
+        "picture_url": "https://github.com/mxvwrt/PyBotOWRT/blob/main/pesan/img/test3.png"
     }
     }
 }
