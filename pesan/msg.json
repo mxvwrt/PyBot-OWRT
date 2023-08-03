@@ -1,0 +1,36 @@
+{
+	"en": {
+		"random_msg_01": {
+			"msg": "Goodbye!"
+		},
+		"random_msg_02": {
+			"msg": "read this if you need help with openwrt!\n"
+		},
+		"random_msg_03": {
+			"msg": "Test For Incognito!\n"
+		},
+		"random_msg_04": {
+			"msg": "For Stable VPN I Recommend! [VPN Neo](https://vpnneo.com/) \n"
+		},
+		"random_msg_05": {
+			"msg": "Bot Created BY [AKU](tg://user?id=5822545846)!"
+		}
+	},
+	"id": {
+		"random_msg_01": {
+			"msg": "Sampai jumpa!"
+		},
+		"random_msg_02": {
+			"msg": "baca ini jika Anda memerlukan bantuan dengan OpenWrt!\n"
+		},
+		"random_msg_03": {
+			"msg": "Uji untuk Incognito!\n"
+		},
+		"random_msg_04": {
+			"msg": "Untuk VPN Stabil, saya merekomendasikan! [VPN Neo](https://vpnneo.com/) \n"
+		},
+		"random_msg_05": {
+			"msg": "Bot Dibuat Oleh [AKU](tg://user?id=5822545846)!"
+		}
+	}
+}
